@@ -1,0 +1,37 @@
+.outerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1A1A1D;
+  }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: #FFFFFF;
+    border-radius: 8px;
+    height: 60%;
+    width: 45%;
+  }
+ /* .header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #2979FF;
+    border-radius: 4px 4px 0 0;
+    height: 60px;
+    width: 100%;
+ } */
+ /* .form {
+    display: flex;
+    border-top: 2px solid #D3D3D3;
+} */
+/* .input {
+    border: none;
+    border-radius: 0;
+    padding: 5%;
+    width: 80%;
+    font-size: 1.2em;
+} */
