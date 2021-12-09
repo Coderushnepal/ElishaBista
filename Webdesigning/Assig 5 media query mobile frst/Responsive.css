@@ -1,0 +1,21 @@
+@media screen and (min-width:768px){
+   
+        .container {
+            max-width: 768px;
+          }
+          .bleft,.bright{
+              width: 50%;
+          }
+          .banner{
+            padding: 48px 0 80px;
+          }
+          .mleft,.mright{
+              width: 50%;
+          }
+    
+}
+@media screen and (min-width: 1200px) {
+    .container {
+      max-width: 1140px; 
+    }
+}

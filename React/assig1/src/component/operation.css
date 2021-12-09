@@ -1,0 +1,23 @@
+.btn{
+    margin-top: 50px;
+    margin-left: 2px;
+  
+   
+}
+span{
+    font-size: 30px;
+}
+
+h2{
+    margin-left: 405px;  
+}
+
+
+
+.btn-add{
+   background-color: brown; 
+   margin-left: 400px;
+}
+.btn-sub{
+    background-color: blue;   
+}
